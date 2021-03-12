@@ -1,0 +1,17 @@
+.FcNight {
+    position:absolute;
+    left:12px;
+    top:30px; 
+}
+
+.H1 {
+    position: relative;
+    left:120%;
+    bottom:15%;
+    color:#fff;
+}
+
+.Link {
+    text-decoration:none;
+    color:#000;
+}
