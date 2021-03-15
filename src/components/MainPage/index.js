@@ -6,6 +6,7 @@ import '../../index.css';
 // import Service from './pages/Service';
 import { MainWrapper } from './pages/style/ServiceStyle';
 import Service from './pages/Service';
+
 // import Service from './pages/Service';
 
 
@@ -18,7 +19,6 @@ export function MainPage() {
                 <Header />
                 <Home />
                 <Service />
-
             </MainWrapper>
         </>
     );

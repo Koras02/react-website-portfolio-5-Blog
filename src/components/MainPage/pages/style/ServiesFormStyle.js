@@ -4,23 +4,16 @@ export const MainWrapper = styled.div`
    width:100%;
    height:9211.3px;
    display:block;
-   border:1px solid red;
-`
-
-export const ServicesWrapper = styled.div`
-   position:relative;
-   top:10%;
 `
 
 export const ServiceWrapper = styled.div`
     width:100%;
     height:771px;
     padding:120px 0px;
-    // border:1px solid red;
+    border:1px solid red;
     // background:red;
     position:relative;
     top:11%;
-    border-bottom:2px solid red;
 `;
 
 
